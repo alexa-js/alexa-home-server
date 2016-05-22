@@ -1,0 +1,30 @@
+{
+  "name": "alexa-home-server",
+  "version": "1.0.0",
+  "description": "Self-host an Alexa app server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ray Zane",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app-server": "^2.2.4",
+    "localtunnel": "^1.8.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzane/alexa-home-server.git"
+  },
+  "keywords": [
+    "alexa",
+    "app",
+    "server",
+    "home"
+  ],
+  "bugs": {
+    "url": "https://github.com/rzane/alexa-home-server/issues"
+  },
+  "homepage": "https://github.com/rzane/alexa-home-server#readme"
+}
