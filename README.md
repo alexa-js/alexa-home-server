@@ -1,6 +1,6 @@
 # alexa-home-server
 
-This module allows you to run an [alexa-app-server](server) on a device in your home, such as a Raspberry Pi. Running a server in your home allows you to easily communicate other devices on your local network.
+This module allows you to run an [alexa-app-server][server] on a device in your home, such as a Raspberry Pi. Running a server in your home allows you to easily communicate other devices on your local network.
 
 ## Installation
 
@@ -26,7 +26,7 @@ Tunnel URL: https://czceoztype.localtunnel.me
 
 ## Options
 
-This module accepts all options provided by [alexa-app-server](server), with a few additions:
+This module accepts all options provided by [alexa-app-server][server], with a few additions:
 
 ```javascript
 require('alexa-home-server').start({
@@ -50,9 +50,9 @@ require('alexa-home-server').start({
 
 ## Resources
 
-+ [alexa-app](app)
-+ [alexa-app-server](server)
-+ [localtunnel](localtunnel)
++ [alexa-app][app]
++ [alexa-app-server][server]
++ [localtunnel][localtunnel]
 
 [app]: https://github.com/matt-kruse/alexa-app
 [server]: https://github.com/matt-kruse/alexa-app-server
