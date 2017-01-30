@@ -54,6 +54,6 @@ require('alexa-home-server').start({
 + [alexa-app-server][server]
 + [localtunnel][localtunnel]
 
-[app]: https://github.com/matt-kruse/alexa-app
-[server]: https://github.com/matt-kruse/alexa-app-server
+[app]: https://github.com/alexa-js/alexa-app
+[server]: https://github.com/alexa-js/alexa-app-server
 [localtunnel]: https://github.com/localtunnel/localtunnel
