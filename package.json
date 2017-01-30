@@ -15,7 +15,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rzane/alexa-home-server.git"
+    "url": "git+https://github.com/alexa-js/alexa-home-server.git"
   },
   "keywords": [
     "alexa",
@@ -24,7 +24,7 @@
     "home"
   ],
   "bugs": {
-    "url": "https://github.com/rzane/alexa-home-server/issues"
+    "url": "https://github.com/alexa-js/alexa-home-server/issues"
   },
-  "homepage": "https://github.com/rzane/alexa-home-server#readme"
+  "homepage": "https://github.com/alexa-js/alexa-home-server#readme"
 }
